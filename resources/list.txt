@@ -1,0 +1,8 @@
+圣女果,cherrytomato,11.98
+枣,date,3.8
+梨,pear,5.4
+橘子,orange,8.6
+火龙果,pitaya,6.99
+苹果,apple,4.5
+葡萄,grapes,9.1
+香蕉,banana,7.6
